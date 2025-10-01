@@ -102,3 +102,10 @@ Created by Crux4000
 
 If you find this tool useful, consider starring the repository!
 
+<img width="840" height="573" alt="1" src="https://github.com/user-attachments/assets/e819ba79-861d-4390-8b1e-f118173317f2" />
+
+<img width="840" height="652" alt="2" src="https://github.com/user-attachments/assets/a1f87ce3-412d-4e6a-a075-5a8b2e97a231" />
+
+<img width="1192" height="693" alt="3" src="https://github.com/user-attachments/assets/203da535-3321-4c25-b51e-243d180cbed0" />
+
+<img width="972" height="487" alt="4" src="https://github.com/user-attachments/assets/eec18bcc-dd77-48b7-b96a-132178b359dc" />
